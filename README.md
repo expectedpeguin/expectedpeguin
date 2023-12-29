@@ -1,0 +1,5 @@
+- 👋 Hey there, I’m @expectedpeguin!
+- 👀 I’m fascinated by C#, Golang, CSS, HTML, JavaScript, Node.js, and Vue.js.
+- 🌱 Currently, I'm delving into automations and AI.
+- 💞 I’m open to collaborating on a wide range of projects—let's create something amazing together!
+- 📫 Reach me at expectedpeguin@proton.me
